@@ -1,4 +1,8 @@
 
 # Index
 ## Getting started
-* [Create a web server for the application](https://github.com/Roche-Olivier/help.windows10.nodejs.express.website/blob/master/_content/_pages/webpage.create.webserver.md)
+* [Create a basic web server](https://github.com/Roche-Olivier/help.windows10.nodejs.express.website/blob/master/_content/_pages/webpage.create.webserver.md)
+* [Serve pages with your web server](https://github.com/Roche-Olivier/help.windows10.nodejs.express.website/blob/master/_content/_pages/webpage.create.webserver.withpages.md)
+* [Useful packages and libraries](https://github.com/Roche-Olivier/help.windows10.nodejs.express.website/blob/master/_content/_pages/webpage.create.webserver.packages.md)
+
+* [Implemetation of packages](https://github.com/Roche-Olivier/help.windows10.nodejs.express.website/blob/master/_content/_pages/webpage.create.webserver.packages.implement.md)
