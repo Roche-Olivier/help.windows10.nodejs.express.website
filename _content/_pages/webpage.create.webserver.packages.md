@@ -1,7 +1,6 @@
 ### [![Index](https://github.com/Roche-Olivier/help.windows10.nodejs.basics/blob/master/_content/_images/home.png "Index") Index](https://github.com/Roche-Olivier/help.windows10.nodejs.express.website)
 
-## Lets get started
-
+## Useful packages and libraries
 
 **Initialize the application**
 
