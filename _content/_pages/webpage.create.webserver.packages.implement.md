@@ -92,7 +92,7 @@ Open your browser and navigate to the following page: HTTP://localhost:3100/
 
 The page of the site would look like this now.
 
-![WFE_with_bootstrap](https://github.com/Roche-Olivier/Examples/blob/master/Examples/Images/wfe_with_bootstrap.png "WFE_with_bootstrap")
+![WFE_with_bootstrap](https://github.com/Roche-Olivier/help.windows10.nodejs.express.website/blob/master/_content/_images/screen/wfe_with_bootstrap.png "WFE_with_bootstrap")
 
 
 
