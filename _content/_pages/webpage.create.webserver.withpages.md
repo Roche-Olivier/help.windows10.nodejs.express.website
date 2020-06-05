@@ -1,4 +1,6 @@
-### [![Index](https://github.com/Roche-Olivier/help.windows10.nodejs.basics/blob/master/_content/_images/home.png "Index") Index](https://github.com/Roche-Olivier/help.windows10.nodejs.express.website)
+
+[![Index](https://github.com/Roche-Olivier/help.windows10.nodejs.express.website/blob/master/_content/_images/footerwfe.png "Table fo contents")](https://github.com/Roche-Olivier/help.windows10.nodejs.express.website)
+
 
 ## Serve pages with your web server
 
@@ -100,9 +102,7 @@ Save the files and run the application.
 
 [How to run...](https://github.com/Roche-Olivier/help.windows10.nodejs.basics/blob/master/_content/_pages/start.running.md)
 
-Open your browser and navigate to the following page: HTTP://localhost:3100/
-
-![Examples and lessons](https://github.com/Roche-Olivier/help.windows10.nodejs.basics/blob/master/_content/_images/footer.png "Examples and lessons")
+Open your browser and navigate to the following page: http://localhost:3100/
 
 
-
+[![Index](https://github.com/Roche-Olivier/help.windows10.nodejs.express.website/blob/master/_content/_images/footerwfe.png "Table fo contents")](https://github.com/Roche-Olivier/help.windows10.nodejs.express.website)

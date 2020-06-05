@@ -50,7 +50,7 @@ Save the file and run the application.
 The console output will still be 'hello world' but the application does not end.<br/>
 It sits in a wait status listening on port 3100 for any HTTP traffic.
 
-Open your browser and navigate to the following page: HTTP://localhost:3100/
+Open your browser and navigate to the following page: http://localhost:3100/
 
 The page will return 'hello world' as well.<br>
 But this time it is the express server that sends a response back to the browser.
