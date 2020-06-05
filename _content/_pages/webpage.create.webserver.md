@@ -1,5 +1,5 @@
 
-[![Index](https://github.com/Roche-Olivier/help.windows10.nodejs.express.website/blob/master/_content/_images/footer.png "Table fo contents")](https://github.com/Roche-Olivier/help.windows10.nodejs.express.website)
+[![Index](https://github.com/Roche-Olivier/help.windows10.nodejs.express.website/blob/master/_content/_images/footerwfe.png "Table fo contents")](https://github.com/Roche-Olivier/help.windows10.nodejs.express.website)
 
 ## Create a basic web server
 
@@ -55,4 +55,4 @@ Open your browser and navigate to the following page: HTTP://localhost:3100/
 The page will return 'hello world' as well.<br>
 But this time it is the express server that sends a response back to the browser.
 
-[![Index](https://github.com/Roche-Olivier/help.windows10.nodejs.express.website/blob/master/_content/_images/footer.png "Table fo contents")](https://github.com/Roche-Olivier/help.windows10.nodejs.express.website)
+[![Index](https://github.com/Roche-Olivier/help.windows10.nodejs.express.website/blob/master/_content/_images/footerwfe.png "Table fo contents")](https://github.com/Roche-Olivier/help.windows10.nodejs.express.website)
